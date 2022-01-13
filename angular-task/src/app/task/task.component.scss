@@ -1,0 +1,10 @@
+th {
+  white-space: pre;
+  text-transform: capitalize;
+}
+
+.page-link {
+  &:focus {
+    box-shadow: none;
+  }
+}
